@@ -1,2 +1,2 @@
-# Sudoku
-A simple sudoku game
+#Sudoku
+This is a sudoku puzzle
